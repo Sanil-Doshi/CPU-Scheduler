@@ -1,0 +1,42 @@
+## Identifying Information
+* Names: Michelle Zhang, Sanil Doshi
+* IDs: 2380210, 2344493
+* Emails: mizhang@chapman.edu, sdoshi@chapman.edu
+* Class: CPSC 380-02
+* Assignment: Assignment 4: CPU Scheduling
+
+## Source Files
+* CPU.c, CPU.h
+* driver.c
+* list.c, list.h
+* task.h
+* schedulers.h
+* Makefile
+* README.md
+* schedule_fcfs.c
+* schedule_priority_rr.c
+* schedule_priority.c
+* schedule_sjf.c
+* schedule_rr.c
+* schedule.txt
+* book.txt
+
+## References
+* N/A
+
+## Known Errors
+* N/A
+
+## Build Instructions
+* make rr
+* make fcfs
+* make sjf
+* make priority_rr
+* make priority
+
+## Execution Instructions
+* ./rr schedule.txt
+* ./fcfs schedule.txt
+* ./sjf schedule.txt
+* ./priority_rr schedule.txt
+* ./priority schedule.txt
