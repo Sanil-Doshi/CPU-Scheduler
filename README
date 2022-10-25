@@ -1,9 +1,6 @@
 ## Identifying Information
-* Names: Michelle Zhang, Sanil Doshi
-* IDs: 2380210, 2344493
-* Emails: mizhang@chapman.edu, sdoshi@chapman.edu
-* Class: CPSC 380-02
-* Assignment: Assignment 4: CPU Scheduling
+* Michelle Zhang, Sanil Doshi
+* Chapman University
 
 ## Source Files
 * CPU.c, CPU.h
@@ -20,12 +17,6 @@
 * schedule_rr.c
 * schedule.txt
 * book.txt
-
-## References
-* N/A
-
-## Known Errors
-* N/A
 
 ## Build Instructions
 * make rr
